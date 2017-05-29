@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:IDDE;datatype:int,name:nombre;datatype:string" />
+	<infoitem key="UD_Procesos" value="name:idcargo;datatype:int,name:nom_car;datatype:string,name:departamento_IDDE;datatype:int,name:est_cargo;datatype:int,name:IDDE;datatype:int,name:nombre;datatype:string" />
+	<infoitem key="UD_Cargo" value="name:idcargo;datatype:int,name:nom_car;datatype:string,name:departamento_IDDE;datatype:int,name:est_cargo;datatype:int" />
+</info>

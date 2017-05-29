@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_pruebla" value="name:idinforme_au;datatype:int,name:Fecha_eje;datatype:date,name:Obj_aud;datatype:string,name:alc_aud;datatype:string,name:det_au;datatype:string,name:ide_aud;datatype:string,name:Cap_aud;datatype:string,name:Esq_aud;datatype:string,name:Ane_aud;datatype:string,name:Lid_aud;datatype:string,name:proceso_IDP;datatype:int,name:Per_aud;datatype:string,name:concluciones;datatype:string,name:RECOMENDACIONES;datatype:string" />
+</info>

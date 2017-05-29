@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Procesos" value="name:IDDE;datatype:int,name:nombre;datatype:string,name:IDP;datatype:int,name:nombre_pro;datatype:string,name:tipo;datatype:string,name:departamento_IDDE;datatype:int,name:est_pro;datatype:int" />
+</info>

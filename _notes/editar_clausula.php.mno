@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_clausula" value="name:IDC;datatype:string,name:Nombre;datatype:string,name:ACT_CLA;datatype:int,name:IDCC;datatype:int" />
+	<infoitem key="UD_Lista_clausulas" value="name:IDC;datatype:string,name:Nombre;datatype:string,name:ACT_CLA;datatype:int,name:IDCC;datatype:int" />
+</info>

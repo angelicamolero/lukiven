@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Clausulas_Informe" value="name:IDC;datatype:string,name:Nombre;datatype:string,name:ACT_CLA;datatype:int,name:IDCC;datatype:int,name:Clausulas_IDCC;datatype:int,name:informe_aud_idinforme_au;datatype:int,name:HALLAZGO;datatype:string,name:ESTADO;datatype:string,name:sol_acc;datatype:int,name:desc_sit;datatype:string,name:idinforme_au;datatype:int,name:Fecha_eje;datatype:date,name:Obj_aud;datatype:string,name:alc_aud;datatype:string,name:det_au;datatype:string,name:ide_aud;datatype:string,name:Cap_aud;datatype:string,name:Esq_aud;datatype:string,name:Ane_aud;datatype:string,name:Lid_aud;datatype:string,name:proceso_IDP;datatype:int,name:IDP;datatype:int,name:nombre_pro;datatype:string,name:tipo;datatype:string,name:departamento_IDDE;datatype:int" />
+	<infoitem key="UD_clausulas_all" value="name:IDC;datatype:string,name:Nombre;datatype:string,name:ACT_CLA;datatype:int,name:IDCC;datatype:int" />
+	<infoitem key="UD_clausula_edit" value="name:Clausulas_IDCC;datatype:int,name:informe_aud_idinforme_au;datatype:int,name:HALLAZGO;datatype:string,name:ESTADO;datatype:string,name:sol_acc;datatype:int,name:desc_sit;datatype:string" />
+</info>

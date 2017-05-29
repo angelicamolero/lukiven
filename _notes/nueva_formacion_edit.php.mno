@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_formacion" value="name:IDF;datatype:int,name:Nombre;datatype:string,name:formacioncol;datatype:string" />
+	<infoitem key="UD_formacion_edit" value="name:IDF;datatype:int,name:Nombre;datatype:string,name:formacioncol;datatype:string" />
+</info>

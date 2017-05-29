@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:IDAC;datatype:int,name:fec_com;datatype:date,name:des_acc;datatype:string,name:usuario_USUARIO;datatype:string,name:tipo;datatype:string,name:seguimiento;datatype:string,name:fec_cierre;datatype:date,name:estatus_seg;datatype:string,name:observaciones_seg;datatype:string,name:periodo_ver;datatype:string,name:medi_efi;datatype:string,name:clausulas_has_informe_aud_IDCI;datatype:int,name:clausulas_has_informe_aud_Clausulas_IDCC;datatype:int,name:clausulas_has_informe_aud_informe_aud_idinforme_au;datatype:int" />
+</info>

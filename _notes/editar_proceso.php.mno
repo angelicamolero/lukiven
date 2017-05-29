@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Departamento" value="name:IDDE;datatype:int,name:nombre;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:IDDE;datatype:int,name:nombre;datatype:string" />
+	<infoitem key="UD_Procesos" value="name:IDDE;datatype:int,name:nombre;datatype:string" />
+</info>

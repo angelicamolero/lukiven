@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_dos_consultas" value="name:usuario_USUARIO;datatype:string,name:formacion_IDF;datatype:int" />
+	<infoitem key="UD_Recordset1" value="name:count(usuario_has_informe_aud.usuario_USUARIO);datatype:int" />
+</info>

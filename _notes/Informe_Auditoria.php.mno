@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Usuarios" value="name:NOMBRE;datatype:string,name:APELLIDO;datatype:string,name:EMAIL;datatype:string,name:CONTRASENA;datatype:string,name:SUCURSAL;datatype:string,name:USUARIO;datatype:string,name:CONDICION;datatype:string,name:CEDULA;datatype:string,name:CARGO;datatype:string,name:TITULO;datatype:string,name:TIPOUSU;datatype:int,name:img_usu;datatype:string,name:UA_OBS;datatype:int,name:UA_LID;datatype:int,name:UA_TOT;datatype:int,name:Departamento_IDDE;datatype:int,name:cargo_idcargo;datatype:int,name:fec_reg;datatype:date" />
+	<infoitem key="UD_Procesos" value="name:IDP;datatype:int,name:nombre_pro;datatype:string,name:tipo;datatype:string,name:departamento_IDDE;datatype:int,name:est_pro;datatype:int" />
+</info>

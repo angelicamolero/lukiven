@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Lista_usuarios" value="name:idfile;datatype:int,name:nombre;datatype:string,name:tipo;datatype:string" />
+</info>
